@@ -43,11 +43,7 @@ Check out the live app here:
 
 ## 📸 Screenshots
 
-| Admin Dashboard | Merchant Panel | Customer View |
-|-----------------|----------------|----------------|
-| ![Admin](./screens/admin.png) | ![Merchant](./screens/merchant.png) | ![Customer](./screens/customer.png) |
-
-> *(Add your own screenshots in `./screens/` folder)*
+![Output](/public/project.gif)
 
 ---
 
