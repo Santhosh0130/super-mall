@@ -1,12 +1,97 @@
-# React + Vite
+# 🛍️ Super Mall Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Super Mall** is a full-featured e-commerce web application focused on empowering rural merchants to showcase and sell their products online. Built with **React**, **Firebase**, and **TailwindCSS**, the platform supports merchant onboarding, product management, offers, admin approval, and real-time updates.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+### 👨‍💼 Merchant
+- Register/Login securely
+- Create & manage shops
+- Add/edit products with images
+- Apply product offers (discounts, deal pricing)
+- View product-wise analytics
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🛒 Customer
+- Browse & search all products
+- View shop details
+- User-friendly product cards
+
+### 🛠️ Admin
+- Approve/deny merchant registrations
+- View all shops & products
+- Manage product listings
+- Dashboard for overview
+
+---
+
+## 🔥 Live Demo
+
+Check out the live app here:  
+👉 [https://sansmartmall.web.app](https://super-mall-7cd2d.web.app)
+
+## 🧱 Tech Stack
+
+| Frontend        | Backend / DB        | Tools / Auth     |
+|-----------------|---------------------|------------------|
+| React.js        | Firebase Firestore  | Firebase Auth    |
+| Tailwind CSS    | Firebase Functions (planned) | Firebase Hosting |
+| React Router    |                     | Cloud Storage (for images) |
+
+---
+
+## 📸 Screenshots
+
+| Admin Dashboard | Merchant Panel | Customer View |
+|-----------------|----------------|----------------|
+| ![Admin](./screens/admin.png) | ![Merchant](./screens/merchant.png) | ![Customer](./screens/customer.png) |
+
+> *(Add your own screenshots in `./screens/` folder)*
+
+---
+
+## 🔧 Installation
+
+```bash
+git clone https://github.com/YOUR_USERNAME/super-mall.git
+cd super-mall
+npm install
+```
+
+---
+
+🧪 Development
+
+```bash
+npm run dev
+# or for CRA:
+npm start
+```
+
+---
+
+🔥 Firebase Hosting (Live)
+```bash
+    Add your live link here once deployed.
+
+npm run build
+firebase deploy
+```
+
+---
+
+🛠️ TODO / Coming Soon
+
+    Product comparison feature
+
+    Merchant insights and sales reports
+
+    Customer reviews and ratings
+
+    Multi-language support
+---
+
+📜 License
+
+This project is licensed under the MIT License.
