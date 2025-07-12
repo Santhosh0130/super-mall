@@ -29,7 +29,7 @@
 ## 🔥 Live Demo
 
 Check out the live app here:  
-👉 [https://sansmartmall.web.app](https://super-mall-7cd2d.web.app)
+👉 [https://sansmartmall.web.app](https://super-mall-7cd2d.web.app/login)
 
 ## 🧱 Tech Stack
 
